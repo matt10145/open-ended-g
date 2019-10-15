@@ -1,0 +1,19 @@
+/*Custom Style Sheet*/
+
+h1 {
+  font-size: 21px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
+}
+
+p a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
